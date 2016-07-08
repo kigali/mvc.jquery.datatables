@@ -9,6 +9,9 @@ using Mvc.JQuery.DataTables.Serialization;
 
 namespace Mvc.JQuery.DataTables.Example.Controllers
 {
+    /// <summary>
+    /// la classe
+    /// </summary>
     public class HomeController : Controller
     {
         public ActionResult Index()
